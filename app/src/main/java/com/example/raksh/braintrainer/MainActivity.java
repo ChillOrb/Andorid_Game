@@ -87,7 +87,7 @@ public class MainActivity extends AppCompatActivity {
         else {
             tex.setVisibility(View.VISIBLE);
 
-            tex.setText("Incorrect!");
+            tex.setText("Incorrect");
         }
         scoreb++;
 
